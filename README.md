@@ -35,12 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugbhavsar2423&" alt="yugbhavsar2423" /></p>
 
-# Here something about me 🎓
-
- • I am studying about CSE (AI-ML).
-
- • I am learning about programming language.
-
- • you can connect with me by : yugbhavsar1@gmail.com.
-
- • i need help for learning programming language.
