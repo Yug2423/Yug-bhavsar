@@ -21,8 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/yug24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yug24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yug-bhavsar-b886b9201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yug-bhavsar-b886b9201" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yug-bhavsar-b886b9201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yug-bhavsar-b886b9201" height="30" width="40" /></a>
 <a href="https://instagram.com/yug_bhavsar24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yug_bhavsar24" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/http://www.hackerearth.com/@yugbhavsar1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@yugbhavsar1" height="30" width="40" /></a>
 </p>
